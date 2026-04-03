@@ -45,7 +45,7 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhishekborole&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhishekborole&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ---
 
