@@ -45,21 +45,21 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=abhishekborole\&show_icons=true\&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=abhishekborole\&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINK
-* Email: [your@email.com](mailto:your@email.com)
+* LinkedIn: https://linkedin.com/in/abhishekborole
+* Email: [abhishekborole@gmail.com](mailto:abhishekborole@gmail.com)
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [abhishekborole](https://github.com/abhishekborole)
