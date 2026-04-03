@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek
 
-<!--
-**abhishekborole/abhishekborole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sr Associate Director | Tech Enthusiast | Automation, Cloud & Web Applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🔭 Working on: OpenShift, Automation, Backend APIs & Web Applications
+* 🌱 Learning: AI, LLMs, Cloud Architecture
+* 💬 Ask me about: Linux, Ansible, FastAPI, OpenShift, Angular, React
+* ⚡ Fun fact: I debug faster after coffee ☕
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+* Python, Shell, PowerShell
+
+### 🌐 Web Development
+
+* Frontend: Angular, React
+* Backend: FastAPI
+* API Design & Integration
+
+### ⚙️ Tools & DevOps
+
+* Ansible, Docker, Git
+
+### ☁️ Cloud / Virtualization
+
+* OpenShift, VMware
+
+### 🗄️ Databases
+
+* PostgreSQL, Microsoft SQL Server (MSSQL)
+
+### 🔄 Messaging & Streaming
+
+* Apache Kafka
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: https://linkedin.com/in/YOUR_LINK
+* Email: [your@email.com](mailto:your@email.com)
+
+---
+
+⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
